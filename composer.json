@@ -1,0 +1,23 @@
+{
+    "name": "php4all/cache",
+    "description": "Simple cache component API",
+    "authors": [
+        {
+            "name": "Julien Darmon",
+            "email": "php4all@free.fr"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/php4all/cache.git"
+        }    
+    ],
+	"autoload": {
+		"psr-4": {"cache\\": "src"}
+	},
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
