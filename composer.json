@@ -1,5 +1,6 @@
 {
     "name": "php4all/cache",
+    "version" : "0.0.1-dev",
     "description": "Simple cache component API",
     "authors": [
         {
@@ -18,6 +19,5 @@
 	},
     "minimum-stability": "dev",
     "require": {
-
     }
 }
